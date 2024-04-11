@@ -1,0 +1,2 @@
+Flask==2.0.1  # Specify Flask version according to your project
+newsapi-python==0.2.6  # Specify the version of NewsAPI you are using
